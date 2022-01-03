@@ -1,28 +1,62 @@
-# Hello World! 🙋‍♂️
+![Header](https://i.postimg.cc/HWycdbqr/HEADER.png)
 
-I'm Future Frontend Developer from Poland 🇵🇱
+# Hey & hello! 🖖
 
-- 🔭 Working on multiple frontend and backend project using React and NodeJS
-- 🌱 I learn every day!
+I'm Armin Hupka and im frontend developer with a focus on becoming a full stack developer. I'm from Poland, living in Upper Silesia - Katowice.   
 
-## Contact with me 
+## Technologies & Tools 🔧
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/App-Blender-informational?style=flat&logo=blender&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/App-Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/App-Figma-informational?style=flat&logo=figma&logoColor=white&color=FF2453)
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/armin-hupka-8227b4189/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/arminhupka/)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/juicyhitmaker)
-</br>
-</br>
-</br>
+## Some GitHub Stats 📈
+<a href="https://github.com/arminhupka/arminhupka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arminhupka&hide=java,html,tex&title_color=fff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/arminhupka/arminhupka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arminhupka&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21" alt="Armin's GitHub Stats" />
+</a>
 
-## I love working with ♥️
+## My Projects ⌨️
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="next" src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-<img align="left" alt="gatsby" src="https://img.shields.io/badge/gatsby%20-%237026BA.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="mongodb" src="https://img.shields.io/badge/mongodb%20-%2313AA51.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-</br>
-</br>
-</br>
+### Loando
+Loando is an application written in clean React and Express for borrowing low sums of money for a short loan period.
 
-## My latest project
+<a href="https://github.com/arminhupka/loando">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arminhupka&repo=loando&title_color=ffffff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arminhupka/Loando-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arminhupka&repo=Loando-API&title_color=ffffff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21" />
+</a> 
+
+---
+
+### CarRento
+CarRento is a simple website written in Next.js for a car rental company.
+
+<a href="https://github.com/arminhupka/carrento">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arminhupka&repo=carrento&title_color=ffffff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21" />
+</a>
+
+---
+
+### Shortly
+Shortly is a service for creating short links which redirects user to original destination. This project it's my first attempt to TypeScript and Nest.js which I used to create API.
+
+<a href="https://github.com/arminhupka/Shortly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arminhupka&repo=Shortly&title_color=ffffff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arminhupka/ShortlyAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arminhupka&repo=ShortlyAPI&title_color=ffffff&text_color=c9cacc&icon_color=FF2453&bg_color=1d1f21" />
+</a>
+
