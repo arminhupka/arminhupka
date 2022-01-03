@@ -12,6 +12,8 @@ I'm Armin Hupka and im frontend developer with a focus on becoming a full stack 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=FF2453)
 ![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=FF2453)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=FF2453)
+![](https://img.shields.io/badge/Code-Nest.JS-informational?style=flat&logo=NestJS&logoColor=white&color=FF2453)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FF2453)
 ![](https://img.shields.io/badge/App-Blender-informational?style=flat&logo=blender&logoColor=white&color=FF2453)
 ![](https://img.shields.io/badge/App-Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=FF2453)
